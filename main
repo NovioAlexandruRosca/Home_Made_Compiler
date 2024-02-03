@@ -1,0 +1,86 @@
+CLASS_DECL{
+hibrid a {
+        fn f1 ( a1:singurel,a2:a ) -> basic{};
+        fn b ( b1:singurel,b2:chatgpt ) -> fidel singurel{};
+        fn c ( c1:singurel,c2:fidel multicei ) -> (){};
+        fn d ( ) -> singurel{};
+        fn e ( ) -> fidel singurel{};
+        fn f (f1<100>: singurel,f2:chatgpt) -> (){};
+
+        a:basic = 4;
+        b:singurel;
+        c:fidel multicei = "20";
+        d:smart;
+        e:fidel maybe = true;
+        f<120>:basic = {9,8,7};
+
+    };
+    hibrid b {
+        fn Alex () -> () {
+            test:basic;
+        };
+        Andrei : basic = 50;
+    };
+}
+VARIABLE_DECL{
+aa:basic = 5;
+ba:singurel = '1';
+ca:fidel multicei = "30";
+da:smart = 0.0002;
+ea:fidel maybe = false;
+fa<120>:chatgpt = {"2","3","4"};
+ga<120>:basic = {2,3,4};
+ha:basic;
+}
+FUNCTION_DECL{
+
+fn fct1 ( a1:singurel ) -> basic{};
+fn fct2 ( b1:singurel,b2:chatgpt ) -> fidel singurel{};
+fn fct3 ( c1:singurel,c2:fidel multicei ) -> (){};
+fn fct4 ( ) -> singurel{};
+fn fct5 ( ) -> fidel singurel{};
+fn fct6 (f1<100>: singurel,f2:chatgpt) -> (){
+};
+fn fct7 ( fc:chatgpt) -> (){
+};
+
+}
+main{
+
+aa:basic;
+
+Eval(aa + 7 * (5 + ga<0>) * fct1(ba) - a.a);
+
+Eval(2 + 2 le aa + fct1(ba) or a.a );
+
+ga<0> = 98;
+
+Eval(aa + a.a);
+Eval(fct2(fct2(ba,fa),fa) + '1'); 
+aa = a.f<0>;
+var:multicei;
+var = "lmao";
+
+if(1)
+{
+    Eval(2);
+}
+else
+{
+    Eval(3);
+};
+
+while(4)
+{
+    Eval(4);
+};
+
+for(aa = 5 ; 5 ; aa++)
+{
+
+};
+
+Eval(fct7(fa));
+
+
+}

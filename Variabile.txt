@@ -1,0 +1,18 @@
+name: a | const: false | type: basic | block: a | value: 4 
+name: b | const: false | type: singurel | block: a | value: 
+name: c | const: true | type: multicei | block: a | value: "20" 
+name: d | const: false | type: smart | block: a | value: 
+name: e | const: true | type: maybe | block: a | value: true 
+name: f<120> | const: false | type: basic | block: a | value: 9 8 7 
+name: test | const: false | type: basic | block: Alex | value: 
+name: Andrei | const: false | type: basic | block: b | value: 50 
+name: aa | const: false | type: basic | block: global | value: 5 
+name: ba | const: false | type: singurel | block: global | value: '1' 
+name: ca | const: true | type: multicei | block: global | value: "30" 
+name: da | const: false | type: smart | block: global | value: 0.0002 
+name: ea | const: true | type: maybe | block: global | value: false 
+name: fa<120> | const: false | type: chatgpt | block: global | value: "2" "3" "4" 
+name: ga<120> | const: false | type: basic | block: global | value: 98 3 4 
+name: ha | const: false | type: basic | block: global | value: 
+name: aa | const: false | type: basic | block: main | value: 9 
+name: var | const: false | type: multicei | block: main | value: "lmao" 
