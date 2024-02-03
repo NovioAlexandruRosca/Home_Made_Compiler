@@ -19,8 +19,9 @@ This homemade compiler leverages the combined capabilities of Bison and C++ to o
 - **Program Structure**: Organized into sections for user-defined data types, global variables, global function definitions, and an entry point function for program execution.
 - **Error Checking**: Ensuring the integrity and correctness of programs by validating variable and function declarations, operand types, and function calls.
 - **AST for Calculation**: Utilizing an Abstract Syntax Tree (AST) for efficient and dynamic expression evaluation for int, float, char, bool, and double data types.
-- **And many more other features.
 - **Data Stored in Tables**: Data is stored separately in tables for efficient retrieval and manipulation, enhancing the performance and scalability of the application.
+
+And many more other features.
 
 ## How To Run
 - **/compile.sh limbaj**
