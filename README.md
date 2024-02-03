@@ -34,7 +34,7 @@ Here you can see a couple of screenshots of the app:
 - **Node Structure of the AST**: 
 ![image](https://github.com/AlexandruRoscaPOO/Home_Made_Compiler/assets/113398639/f30c809b-d752-47ac-a840-ac3821022a6e)
 
-- **The Syntax of the Language**: 
+- **The Syntax of the Language**: Original and funny(2023 Humor)
 ![image](https://github.com/AlexandruRoscaPOO/Home_Made_Compiler/assets/113398639/fdc2128f-9bf5-4901-aa9e-b32802264480)
 ![image](https://github.com/AlexandruRoscaPOO/Home_Made_Compiler/assets/113398639/d2ebd22a-64a0-4c03-9f71-cefd2913f7e8)
 
