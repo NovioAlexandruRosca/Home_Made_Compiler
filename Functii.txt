@@ -1,0 +1,14 @@
+name: f1 | args: (a1:mutable singurel,a2:mutable a) | const:  false | type:basic | block: a
+name: b | args: (b1:mutable singurel,b2:mutable chatgpt) | const: true | type:singurel | block: a
+name: c | args: (c1:mutable singurel,c2:multicei) | const: true | type:void | block: a
+name: d | args: () | const:  false | type:singurel | block: a
+name: e | args: () | const: true | type:singurel | block: a
+name: f | args: (f1<100>:mutable singurel,f2:mutable chatgpt) | const: true | type:void | block: a
+name: Alex | args: () | const: true | type:void | block: b
+name: fct1 | args: (a1:mutable singurel) | const:  false | type:basic | block: global
+name: fct2 | args: (b1:mutable singurel,b2:mutable chatgpt) | const: true | type:singurel | block: global
+name: fct3 | args: (c1:mutable singurel,c2:multicei) | const: true | type:void | block: global
+name: fct4 | args: () | const:  false | type:singurel | block: global
+name: fct5 | args: () | const: true | type:singurel | block: global
+name: fct6 | args: (f1<100>:mutable singurel,f2:mutable chatgpt) | const: true | type:void | block: global
+name: fct7 | args: (fc:mutable chatgpt) | const: true | type:void | block: global
